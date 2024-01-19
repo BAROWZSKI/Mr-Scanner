@@ -17,8 +17,8 @@ Simple port scanner in python
 ```bash
 git clone https://github.com/BAROWZSKI/Mr-Scanner.git
 cd Mr-Scanner
-python3 main.py
-python3 parameterized.py
+python main.py
+python parameterized.py
 ```
 
 ## Options
